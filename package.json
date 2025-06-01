@@ -4,7 +4,7 @@
   "description": "IPL ticket sale monitor and alert system",
   "main": "N2.JS",
   "scripts": {
-    "start": "node N2.JS"
+    "start": "node N2.js"
   },
   "dependencies": {
     "axios": "^1.6.7",
